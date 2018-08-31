@@ -1,5 +1,7 @@
 # Rugged Software
 
+<a href="https://twitter.com/ruggedsoftware?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ruggedsoftware</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ![](images/rugged_climbing1.jpg)
 
 # The Rugged Manifesto
