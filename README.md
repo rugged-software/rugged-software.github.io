@@ -26,7 +26,7 @@
 > 
 
 # Documents
-* ![The Rugged Handbook (Word)](documents/Rugged-Handbook-v7.docx)
+* ![The Rugged Handbook (Word)](raw/master/documents/Rugged-Handbook-v7.docx)
 * ![The Rugged Handbook (PDF)](documents/Rugged-Handbook-v7.pdf)
 * ![The Rugged Implementation Guide (Word)](documents/Rugged-Implementation-Guide-v4.docx)
 * ![The Rugged Implementation Guide (PDF)](documents/Rugged-Implementation-Guide-v4.pdf)
