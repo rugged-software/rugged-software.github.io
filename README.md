@@ -26,11 +26,11 @@
 > 
 
 # Documents
-* ![The Rugged Handbook (Word)](raw/master/documents/Rugged-Handbook-v7.docx)
-* ![The Rugged Handbook (PDF)](documents/Rugged-Handbook-v7.pdf)
-* ![The Rugged Implementation Guide (Word)](documents/Rugged-Implementation-Guide-v4.docx)
-* ![The Rugged Implementation Guide (PDF)](documents/Rugged-Implementation-Guide-v4.pdf)
-* ![Official Announcement](Rugged_Software_Development_20100205.pdf)
+* [The Rugged Handbook (Word)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Handbook-v7.docx)
+* [The Rugged Handbook (PDF)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Handbook-v7.pdf)
+* [The Rugged Implementation Guide (Word)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Implementation-Guide-v4.docx)
+* [The Rugged Implementation Guide (PDF)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Implementation-Guide-v4.pdf)
+* [Official Announcement](https://github.com/planetlevel/rugged-software/raw/master/Rugged_Software_Development_20100205.pdf)
 
 
 # Rugged Software FAQ
