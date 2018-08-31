@@ -6,7 +6,7 @@
 
 # The Rugged Manifesto
 
-> <div style="font face='Times New Roman' size="8">&ldquo;</div>
+> <img src="images/openquote.png" width="80"/>
 >
 > I am rugged and, more importantly, my code is rugged.
 > 
@@ -27,7 +27,8 @@
 > I am rugged because my code can face these challenges and persist in spite of them.
 > 
 > I am rugged, not because it is easy, but because it is necessary and I am up for the challenge.
-> ## &rdquo;
+>
+> <img src="images/closequote.png" width="80"/>
 
 
 # Documents
