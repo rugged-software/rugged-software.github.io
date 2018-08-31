@@ -30,7 +30,7 @@
 * [The Rugged Handbook (PDF)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Handbook-v7.pdf)
 * [The Rugged Implementation Guide (Word)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Implementation-Guide-v4.docx)
 * [The Rugged Implementation Guide (PDF)](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged-Implementation-Guide-v4.pdf)
-* [Official Announcement](https://github.com/planetlevel/rugged-software/raw/master/Rugged_Software_Development_20100205.pdf)
+* [Official Announcement](https://github.com/planetlevel/rugged-software/raw/master/documents/Rugged_Software_Development_20100205.pdf)
 
 
 # Rugged Software FAQ
