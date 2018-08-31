@@ -59,3 +59,7 @@ Rugged and this Handbook are far from complete. In fact we've only just started.
 
 # History
 Rugged Software was created by Joshua Corman, David Rice, and Jeff Williams in 2010. A project to create the Rugged Handbook in 2012 was a collaboration of many others, including Ramesh Balasubramanian, Justin Berman, John Bernero, Nick Coblentz, Josh Corman, Gene Kim, Jason Li, Randy Meyers, John Pavone, Ken van Wyk, John Wilander, Jeff Williams, and Chris Wysopal.
+
+# License
+All materials available under the Creative Commons Attribution-Share Alike 3.0 License.
+<a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="/wp-content/uploads/2012/09/3.png" alt="" width="88" hei="" ght="31" longdesc="http://creativecommons.org/licenses/by/3.0/"></a>
