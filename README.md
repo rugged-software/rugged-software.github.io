@@ -6,27 +6,27 @@
 
 # The Rugged Manifesto
 
-> ## "
-> :black_large_square: I am rugged and, more importantly, my code is rugged.
+> <font face = "Times New Roman" size = "10">&ldquo;</font>
+> I am rugged and, more importantly, my code is rugged.
 > 
-> :black_large_square: I recognize that software has become a foundation of our modern world.
+> I recognize that software has become a foundation of our modern world.
 > 
-> :black_large_square: I recognize the awesome responsibility that comes with this foundational role.
+> I recognize the awesome responsibility that comes with this foundational role.
 > 
-> :black_large_square: I recognize that my code will be used in ways I cannot anticipate, in ways it was not designed, and for longer than it was ever intended.
+> I recognize that my code will be used in ways I cannot anticipate, in ways it was not designed, and for longer than it was ever intended.
 > 
-> :black_large_square: I recognize that my code will be attacked by talented and persistent adversaries who threaten our physical, economic, and national security.
+> I recognize that my code will be attacked by talented and persistent adversaries who threaten our physical, economic, and national security.
 > 
-> :black_large_square: I recognize these things - and I choose to be rugged.
+> I recognize these things - and I choose to be rugged.
 > 
-> :black_large_square: I am rugged because I refuse to be a source of vulnerability or weakness.
+> I am rugged because I refuse to be a source of vulnerability or weakness.
 > 
-> :black_large_square: I am rugged because I assure my code will support its mission.
+> I am rugged because I assure my code will support its mission.
 > 
-> :black_large_square: I am rugged because my code can face these challenges and persist in spite of them.
+> I am rugged because my code can face these challenges and persist in spite of them.
 > 
-> :black_large_square: I am rugged, not because it is easy, but because it is necessary and I am up for the challenge.
-> ## "
+> I am rugged, not because it is easy, but because it is necessary and I am up for the challenge.
+> ## &rdquo;
 
 
 # Documents
