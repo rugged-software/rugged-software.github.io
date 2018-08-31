@@ -8,7 +8,7 @@
 
 > <img src="images/openquote.png" width="80"/>
 >
-> I am rugged and, more importantly, my code is rugged.
+> **_I am rugged and, more importantly, my code is rugged.
 > 
 > I recognize that software has become a foundation of our modern world.
 > 
@@ -26,7 +26,7 @@
 > 
 > I am rugged because my code can face these challenges and persist in spite of them.
 > 
-> I am rugged, not because it is easy, but because it is necessary and I am up for the challenge.
+> I am rugged, not because it is easy, but because it is necessary and I am up for the challenge._**
 >
 > <img src="images/closequote.png" width="80"/>
 
