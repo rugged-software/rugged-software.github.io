@@ -6,7 +6,8 @@
 
 # The Rugged Manifesto
 
-> <font face = "Times New Roman" size = "10">&ldquo;</font>
+> <div style="font face='Times New Roman' size="8">&ldquo;</div>
+>
 > I am rugged and, more importantly, my code is rugged.
 > 
 > I recognize that software has become a foundation of our modern world.
