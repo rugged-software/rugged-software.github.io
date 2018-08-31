@@ -26,7 +26,7 @@
 > 
 > ### I am rugged because my code can face these challenges and persist in spite of them.
 > 
-> ### I am rugged, not because it is easy, but because it is necessary and I am up for the challenge._**
+> ### I am rugged, not because it is easy, but because it is necessary and I am up for the challenge.
 >
 > <img src="images/closequote.png" width="80"/>
 
