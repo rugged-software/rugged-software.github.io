@@ -62,8 +62,9 @@ The Rugged approach is totally compatible with existing software development app
 Rugged and this Handbook are far from complete. In fact we've only just started. We are publishing this early version, a strawman, with the intent of provoking you, challenging you, and inciting you to think differently about security, assurance, development, and operations. We invite you to participate in the Rugged Project. The simplest way is to give it a try and let us know how it worked for you. We would love your help further developing Rugged or figuring out how to extend Rugged concepts. We challenge you to forget everything you know about application security and re-imagine how it could be reinvented to produce superior code.
 
 # History
-Rugged Software was created by Joshua Corman, David Rice, and Jeff Williams in 2010. A project to create the Rugged Handbook in 2012 was a collaboration of many others, including Ramesh Balasubramanian, Justin Berman, John Bernero, Nick Coblentz, Josh Corman, Gene Kim, Jason Li, Randy Meyers, John Pavone, Ken van Wyk, John Wilander, Jeff Williams, and Chris Wysopal.
+Rugged Software was created by Joshua Corman, David Rice, and Jeff Williams in 2010. A project to create the Rugged Handbook in 2012 was a collaboration including Ramesh Balasubramanian, Justin Berman, John Bernero, Nick Coblentz, Josh Corman, Gene Kim, Jason Li, Randy Meyers, John Pavone, Ken van Wyk, John Wilander, Jeff Williams, and Chris Wysopal.
 
 # License
 All materials available under the Creative Commons Attribution-Share Alike 3.0 License.
+
 ![http://creativecommons.org/licenses/by-sa/3.0](https://i.creativecommons.org/l/by-sa/3.0/us/88x31.png)
