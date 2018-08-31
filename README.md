@@ -1,6 +1,6 @@
 ## Rugged Software
 
-![](rugged_climbing1.jpg)
+![](images/rugged_climbing1.jpg)
 
 # The Rugged Manifesto
 > 
