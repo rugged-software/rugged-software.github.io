@@ -8,25 +8,25 @@
 
 > <img src="images/openquote.png" width="80"/>
 >
-> ### I am rugged and, more importantly, my code is rugged.
+> ### _I am rugged and, more importantly, my code is rugged._
 > 
-> ### I recognize that software has become a foundation of our modern world.
+> ### _I recognize that software has become a foundation of our modern world._
 > 
-> ### I recognize the awesome responsibility that comes with this foundational role.
+> ### _I recognize the awesome responsibility that comes with this foundational role._
 > 
-> ### I recognize that my code will be used in ways I cannot anticipate, in ways it was not designed, and for longer than it was ever intended.
+> ### _I recognize that my code will be used in ways I cannot anticipate, in ways it was not designed, and for longer than it was ever intended._
 > 
-> ### I recognize that my code will be attacked by talented and persistent adversaries who threaten our physical, economic, and national security.
+> ### _I recognize that my code will be attacked by talented and persistent adversaries who threaten our physical, economic, and national security._
 > 
-> ### I recognize these things - and I choose to be rugged.
+> ### _I recognize these things - and I choose to be rugged._
 > 
-> ### I am rugged because I refuse to be a source of vulnerability or weakness.
+> ### _I am rugged because I refuse to be a source of vulnerability or weakness._
 > 
-> ### I am rugged because I assure my code will support its mission.
+> ### _I am rugged because I assure my code will support its mission._
 > 
-> ### I am rugged because my code can face these challenges and persist in spite of them.
+> ### _I am rugged because my code can face these challenges and persist in spite of them._
 > 
-> ### I am rugged, not because it is easy, but because it is necessary and I am up for the challenge.
+> ### _I am rugged, not because it is easy, but because it is necessary and I am up for the challenge._
 >
 > <img src="images/closequote.png" width="80"/>
 
