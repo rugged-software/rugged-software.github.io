@@ -1,5 +1,3 @@
-# Rugged Software
-
 <a href="https://twitter.com/ruggedsoftware?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ruggedsoftware</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ![](images/rugged_climbing1.jpg)
@@ -42,7 +40,7 @@
 # Rugged Software FAQ
 
 ### What is Rugged?
-“Rugged” describes software development organizations which have a culture of rapidly evolving their ability to create available, survivable, defensible, secure, and resilient software. Rugged organizations use competition, cooperation, and experimentation to learn and improve rather than making the same mistakes over and over. Rugged organizations also actively seek out threats and create defenses before they are a problem. Rugged can also be used to describe the software applications produced by rugged organizations. These applications are not only well-protected against attacks, but are also able to analyze themselves, report on their own security status, detect attacks in progress, and respond appropriately.
+“Rugged” describes software development organizations that have a culture of rapidly evolving their ability to create available, survivable, defensible, secure, and resilient software. Rugged organizations use competition, cooperation, and experimentation to learn and improve rather than making the same mistakes over and over. Rugged organizations also actively seek out threats and create defenses before they are a problem. Rugged can also be used to describe the software applications produced by rugged organizations. These applications are not only well-protected against attacks, but are also able to analyze themselves, report on their own security status, detect attacks in progress, and respond appropriately.
 
 Rugged is NOT a technology, process model, SDLC, or organizational structure. It's not even a noun. Rugged is NOT the same as secure. Secure is a possible state of affairs at a certain point in time. But rugged describes staying ahead of the threat over time. Rugged organizations create secure code as a byproduct of their culture. You are rugged because you run the gauntlet, instrument your organization and your code, constantly experiment to see if anything breaks, and survive the process of hardening yourself through real-world experience. Rugged organizations produce rugged code designed to withstand not just today's threat, but future challenges as well.
 
