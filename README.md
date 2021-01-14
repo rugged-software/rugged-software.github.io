@@ -12,7 +12,7 @@
 > 
 > ### _I recognize the awesome responsibility that comes with this foundational role._
 > 
-> ### _I recognize that my code will be used in ways I cannot anticipate, in ways it was not designed, and for longer than it was ever intended._
+> ### _I recognize that my code will be used, in ways, I cannot anticipate, in ways it was not designed, and for longer than it was ever intended._
 > 
 > ### _I recognize that my code will be attacked by talented and persistent adversaries who threaten our physical, economic, and national security._
 > 
